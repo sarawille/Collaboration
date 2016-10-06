@@ -1,3 +1,5 @@
 This is a new file.
 
 The file has been changed.
+
+File is being updated in branch.
