@@ -1,0 +1,7 @@
+Hello World from Laura
+
+Add Commit PushAdd to stage the changes
+git add filemane
+git add *
+
+
