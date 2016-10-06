@@ -5,3 +5,5 @@ git add filemane
 git add *
 
 
+Commit is tieing a message to what you have added
+the same message will be attached to all added files
